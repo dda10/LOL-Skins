@@ -1,0 +1,5 @@
+{
+  "description": "An application to create and manage a list of favorite League of Legends skins.",
+  "requestFramePermissions": [],
+  "name": "App"
+}
